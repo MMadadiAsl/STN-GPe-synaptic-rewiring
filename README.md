@@ -6,7 +6,7 @@
 
 ## Usage
 
-- Codes reproduce data used to generate the figures in the manuscript: ```STN_GPe_network_main.cpp``` reproduces the key results, ```iSTDP_profile.cpp``` reproduces the symmetric iSTDP learning window, ```stimulation_current.cpp``` reproduces monopolar-continuous, biopolar-continuous and monopolar-burst stimulation waveforms, ```structural_connectivity.cpp``` reproduces the structural connectivity of the STN-GPe network with random connections, and ```theoretical_predictions.cpp``` reproduces the theoretical predictions of the iSTDP-induced synaptic changes in the manuscript.
+- Codes reproduce data used to generate the figures in the manuscript: ```STN_GPe_network_main.cpp``` reproduces the key results, ```iSTDP_profile.cpp``` reproduces the symmetric iSTDP learning window, ```stimulation_current.cpp``` reproduces monopolar-continuous, biopolar-continuous and monopolar-burst stimulation waveforms, ```structural_connectivity.cpp``` reproduces the structural connectivity of the STN-GPe network with random connections, and ```theoretical_predictions.cpp``` reproduces the theoretical predictions of the iSTDP-induced synaptic changes in the model.
 
 #### Compilation
 
