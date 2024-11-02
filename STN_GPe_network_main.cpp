@@ -129,8 +129,8 @@ int main(){
 		rS[i][0] = 0.1;
 		CaS[i][0] = 0.1;
 		tf_STN[i] = 0;
-		IappS[i] = (0.02 * gasdev(&iseed)) + (2.5);
-		//IappS[i] = (0.02 * gasdev(&iseed)) + (0.5);
+		IappS[i] = (0.02 * gasdev(&iseed)) + (0.5);
+		//IappS[i] = (0.02 * gasdev(&iseed)) + (2.5);
 	}
 
 	// Write to a text file
