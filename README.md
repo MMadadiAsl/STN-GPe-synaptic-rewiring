@@ -25,5 +25,4 @@ g++ -std=c++11 file_name.cpp
 
 ## Citation
 
-- Madadi Asl, M., & ‎Lea-Carnall, C. A. (2024). Rhythmic modulation of subthalamo-pallidal interactions depends on synaptic rewiring through inhibitory plasticity.
-
+- Madadi Asl, M., & ‎Lea-Carnall, C. A. (2025). Rhythmic modulation of subthalamo-pallidal interactions depends on synaptic rewiring through inhibitory plasticity. Physical Review Research, 7: 023128. [https://doi.org/10.1103/PhysRevResearch.7.023128] (https://doi.org/10.1103/PhysRevResearch.7.023128).
